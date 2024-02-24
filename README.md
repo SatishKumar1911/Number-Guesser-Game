@@ -20,3 +20,4 @@ To run the game, follow these steps:
 
 ## Output
 
+![image](https://github.com/SatishKumar1911/Number-Guesser-Game/assets/124880943/c2dd3854-3155-4742-aac9-ef445e2ea9de)
