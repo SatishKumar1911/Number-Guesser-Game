@@ -12,9 +12,9 @@ This is a simple number guessing game where the user needs to guess a randomly g
 ## Getting Started
 To run the game, follow these steps:
 <ol>
-  <li>Clone the repository: git clone </li>
-  <li>Navigate to the project directory: </li>
-  <li>Run the game: </li>
+  <li>Clone the repository: git clone https://github.com/SatishKumar1911/Number-Guesser-Game.git</li>
+  <li>Navigate to the project directory: cd Number-Guesser-Game</li>
+  <li>Run the game: python number_guesser.py</li>
   <li>Follow the on-screen instructions to play the game.</li>
 </ol>
 
